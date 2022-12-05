@@ -4,7 +4,9 @@ Using tkinter, this python application allows one to save, create, and update pa
 
 ## Installation
 
-Install both the PasswordManager.exe and logo.png files to get started
+Install (2) files and run .exe
+  PasswordManager.exe 
+  logo.png
 
 ## Usage
 
